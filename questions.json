@@ -1,0 +1,176 @@
+[
+    {
+        
+        "CategoryName": "sport",
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        
+        "CategoryName": "music",
+        "id": 2,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        
+        "CategoryName": "science",
+        "id": 3,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        
+        "CategoryName": "TV and entretainment",
+        "id": 4,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        
+        "CategoryName": "Art and design",
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        
+        "CategoryName": "Geography",
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "question": "",
+                "answers": [
+                    {
+                        "id": "a",
+                        "answer": "",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "answer": "",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "answer": "",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+        
+    }
+]
